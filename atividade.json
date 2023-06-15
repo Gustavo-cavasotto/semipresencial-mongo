@@ -1,0 +1,29 @@
+{
+    "detentos": [
+      {
+        "DetentoID": 1,
+        "Nome": "Detento 1",
+        "Bloco": "Bloco A",
+        "Cela": "Cela 101"
+      }
+    ],
+    "visitantes": [
+      {
+        "VisitanteID": 1,
+        "Nome": "Visitante 1",
+        "Relacionamento": "Amigo",
+        "DetentoID": 1
+      }
+    ],
+    "visitas": [
+      {
+        "VisitaID": 1,
+        "DetentoID": 1,
+        "VisitanteID": 1,
+        "DataVisita": "2023-06-15",
+        "HoraEntrada": "10:00",
+        "HoraSaida": "11:00"
+      }
+    ]
+  }
+  
